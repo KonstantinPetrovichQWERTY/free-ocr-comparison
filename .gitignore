@@ -5,8 +5,12 @@ __pycache__/
 
 # C extensions
 *.so
+
+
 *.pdf
 *.jpg
+tesseract/
+
 # Distribution / packaging
 .Python
 build/
